@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Elemento table</title>
+</head>
+
+<body>
+    <header>
+        <h1>Exemplo atributo rowspan</h1>
+    </header>       
+    
+
+    
+        <table>
+            <thead>
+              <tr>
+                <th>Vendas segundo semestre 2023</th>
+              </tr>
+              
+              <tr>
+                     <th>mês </th>
+                     <th>valor</th>
+              </tr>
+
+            </thead>
+
+            <tbody>
+            </tbody>
+            
+            <tfoot>
+            </tfoot>
+            
+            
+            
+           
+    
+        </table>      
+ </body>
+</html>
