@@ -1,0 +1,14 @@
+@charset "utf-8";
+.section1 {
+ width: 450px;
+ height: 250px;
+ border: 1px solid blue;
+ }
+ .section2 {
+ width: 400px;
+ height: 200px;
+ padding: 50px;
+ border: 1px solid red;
+ box-sizing: border-box;
+ }
+
