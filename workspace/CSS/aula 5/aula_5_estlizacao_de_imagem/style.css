@@ -1,0 +1,33 @@
+@charset 'utf-8';
+
+body{
+    background-color: rgb(209, 209, 220);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+header{
+    background-color: rgb(244, 216, 150);
+}
+
+    figure{
+        background-color: rgb(218, 230, 226);
+        width: 350px;
+        padding: 1em ;
+
+    }
+    
+    img{
+        width: 350px;
+        height: 320px;
+        border: 2px solid rgb(0, 0, 0);
+    }
+
+
+    fig caption{
+        text-align: center;
+        font-family: Papyrus, fantasy;
+
+
+    }
+    

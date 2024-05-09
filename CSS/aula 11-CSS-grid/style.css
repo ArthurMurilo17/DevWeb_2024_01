@@ -1,0 +1,22 @@
+body{
+    background-image: url(fundo.webp);
+    
+}
+
+div{
+    background-color: rgba(255, 255, 255, 0.548);
+}
+h1{
+    background-color: rgb(255, 255, 255);
+
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+h2{
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

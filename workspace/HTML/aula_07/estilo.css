@@ -1,0 +1,16 @@
+h1{
+    color: rgba(216, 0, 0, 0.596);
+    background-color: rgb(0, 36, 240);
+    font-family: fantasy;
+}
+
+h2{
+    color: black;
+    background-color: aqua;
+    font-family: cursive;
+}
+p   {
+    color: forestgreen;
+    background-color: chocolate;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

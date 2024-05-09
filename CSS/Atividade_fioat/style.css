@@ -1,0 +1,14 @@
+h1{
+    background-color: rgb(241, 100, 100);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+    
+    
+}
+
+p{
+    color: brown;
+    padding-left: 15px;
+    width: 200px;
+    font-family: 'Times New Roman', Times, serif;
+}
