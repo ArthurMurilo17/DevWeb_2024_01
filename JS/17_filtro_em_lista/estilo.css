@@ -1,7 +1,24 @@
 ul {
     list-style-type: none;
+    
     }
  a {
         text-decoration: none;
-    }
+        color: rgb(0, 0, 0);
+        font-family: Georgia, 'Times New Roman', Times, serif;
         
+    }
+
+    body {
+        background-color: rgb(148, 7, 43);
+    }
+    
+    h1{
+        color: rgb(3, 3, 5);
+        font-family: 'Times New Roman', Times, serif;
+        
+    }
+
+
+
+

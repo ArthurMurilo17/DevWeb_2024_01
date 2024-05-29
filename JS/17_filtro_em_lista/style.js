@@ -1,10 +1,7 @@
-
-
-    // Buscar o elemento input da página
+// Buscar o elemento input da página
 let filterInput = document.getElementById('filterInput');
 // Adicionar um evento a esse elemento
 filterInput.addEventListener('keyup', filterNames);
-
 function filterNames() {
     // Buscar o valor digitado no elemento imput
     let filterValue = document.getElementById('filterInput').value.toUpperCase();
@@ -26,4 +23,7 @@ function filterNames() {
     }
     let filterValue = document.getElementById('filterInput').value.toUpperCase();
     let li = ul.querySelectorAll('li.list-group-item');
+    
+
+
     
